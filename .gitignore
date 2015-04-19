@@ -13,6 +13,7 @@ test-result
 server.pid
 *.iml
 *.eml
+*.swp
 /dist/
 .cache
 /src/main/scala/target/
